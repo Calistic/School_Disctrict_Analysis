@@ -11,10 +11,11 @@ School Summary
 ![School Summary with THS 9th Grade](https://github.com/Calistic/School_Disctrict_Analysis/blob/master/Pictures/School%20Summary%20w%209.PNG)
 ![School Summary without THS 9th Grade](https://github.com/Calistic/School_Disctrict_Analysis/blob/master/Pictures/School%20Summary%20wo%209.PNG)
 
-High and Low Performing Schools
+High Performing Schools
 ![High Performing Schools with THS 9th Grade](https://github.com/Calistic/School_Disctrict_Analysis/blob/master/Pictures/High%20Performing%20Schools%20w%209.PNG)
 ![High Performing Schools without THS 9th Grade](https://github.com/Calistic/School_Disctrict_Analysis/blob/master/Pictures/High%20Performing%20Schools%20wo%209.PNG)
 
+Low Performing Schools
 ![Low Performing Schools with THS 9th Grade](https://github.com/Calistic/School_Disctrict_Analysis/blob/master/Pictures/Low%20Performing%20Schools%20w%209.PNG)
 ![Low Performing Schools without THS 9th Grade](https://github.com/Calistic/School_Disctrict_Analysis/blob/master/Pictures/Low%20Performing%20Schools%20wo%209.PNG)
 
