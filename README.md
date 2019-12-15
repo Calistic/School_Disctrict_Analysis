@@ -40,10 +40,12 @@ Low Performing Schools
 ![Low Performing Schools without THS 9th Grade](https://github.com/Calistic/School_Disctrict_Analysis/blob/master/Pictures/Low%20Performing%20Schools%20wo%209.PNG)
 
 Math Scores by Grade
+
 ![Math Scores by Grade with THS 9th Grade](https://github.com/Calistic/School_Disctrict_Analysis/blob/master/Pictures/Math%20Scores%20by%20Grade%20w%209.PNG)
 ![Math Scores by Grade without THS 9th Grade](https://github.com/Calistic/School_Disctrict_Analysis/blob/master/Pictures/Math%20Scores%20by%20Grade%20wo%209.PNG)
 
 Reading Scores by Grade
+
 ![Reading Scores by Grade with THS 9th Grade](https://github.com/Calistic/School_Disctrict_Analysis/blob/master/Pictures/Reading%20Scores%20by%20Grade%20w%209.PNG)
 ![Reading Scores by Grade without THS 9th Grade](https://github.com/Calistic/School_Disctrict_Analysis/blob/master/Pictures/Reading%20Scores%20by%20Grade%20wo%209.PNG)
 
