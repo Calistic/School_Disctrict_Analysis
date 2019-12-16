@@ -14,7 +14,9 @@ How is the school summary affected?
 - The % Passing Reading decreases for Thomas High School: 97.31 -> 97.02
 
 - The % Overall Passing for Thomas High School drecreases: 95.29 -> 95.10
+  - Note: I did not count the 9th graders in the formula (I did not count NaNs as fails)
   - Note: I kept the (inaccurate) formula from the lesson
+
 
 How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 - Thomas High School drops in % Overall disctrict ranking: 2nd Best -> 5th Best. This is the most noticeable affect. 
