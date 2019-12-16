@@ -17,7 +17,7 @@ How is the school summary affected?
   - Note: I kept the (inaccurate) formula from the lesson
 
 How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
-- Thomas High School drops in % Overall disctrict ranking: 2nd Best -> 5th Best 
+- Thomas High School drops in % Overall disctrict ranking: 2nd Best -> 5th Best. This is the most noticeable affect. 
 
 How does removing the ninth grade scores affect the following:
 - Math and Reading Scores by Grade
@@ -25,15 +25,18 @@ How does removing the ninth grade scores affect the following:
 
 - Scores by School Spending
   - Scores by School Spending is minimaly affected by removing 9th Grade Results from Thomas High School
+    - No noticeable change to the 10th of a percent for average scores
   - Note: I chose not to decremented the Thomas High School population, I only removed student grades 
   - Note: Thomas High School was, and remains, in the 3rd bin, $630-$644
 
 - Scores by School Size
   - Scores by School Size is minimaly affected by removing 9th Grade Results from Thomas High School
+    - No noticeable change to the 10th of a percent for average scores
   - Note: Thomas High School is a medium sized school
 
 - Scores by School Type
   - Scores by School Type is minimaly affected removing 9th Grade Results from Thomas High School
+    - No noticeable change to the 10th of a percent for average scores
   - Note: Thomas High School is a Charter School
 
 
