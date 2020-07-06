@@ -80,6 +80,3 @@ Scores by School Size
 Scores by School Type
 ![Scores by School Type with THS 9th Grade](https://github.com/Calistic/School_Disctrict_Analysis/blob/master/Pictures/Scores%20by%20School%20Type%20w%209.PNG)
 ![Scores by School Type without THS 9th Grade](https://github.com/Calistic/School_Disctrict_Analysis/blob/master/Pictures/Scores%20by%20School%20Type%20wo%209.PNG)
-
-
-#Challange
